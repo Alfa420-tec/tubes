@@ -20,7 +20,6 @@ if(isset($_POST['submit'])) {
         $_SESSION['level'] = $user['level'];
         echo "<script>alert('Login Berhasil!');</script>";
 
-        var_dump($user['level'] == 'Admin');
 
         if($user['level'] == 'Admin'){
             echo "<meta http-equiv='refresh' content='0; url=admin/'>";

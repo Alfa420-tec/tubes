@@ -1,6 +1,6 @@
 <?php
-define('BASE_URL', '/entertaiments/app/');
-define('BASE_URL_ADMIN', '/entertaiments/app/admin/');
+define('BASE_URL', '/tubes/app/');
+define('BASE_URL_ADMIN', '/tubes/app/admin/');
 
 function dd($value)
 {

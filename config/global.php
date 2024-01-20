@@ -1,8 +1,8 @@
 <?php
 
-    $_SITE_NAME		    = 'Pasundan Entertaiment';
-    $_SITE_DESC		    = 'Pasundan Entertaiment is a powerfull website';
-    $_SITE_NAME_LOGO    = 'EPasundan';
+    $_SITE_NAME		    = 'UBP';
+    $_SITE_DESC		    = 'Buana Perjuangan Entertaiment is a powerfull website';
+    $_SITE_NAME_LOGO    = 'EUBP';
 	$_SITE_DESC_EMAIL	= 'malfarizky01090@gmail.com';
 	$_SITE_DESC_PHONE	= '87857027711';
     $_URL_DESC_FACEBOOK	= '';
